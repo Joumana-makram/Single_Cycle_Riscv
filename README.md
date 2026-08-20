@@ -6,7 +6,7 @@ Features
 32-bit single-cycle RISC-V architecture
 Program Counter (PC)
 Instruction Memory
-32 × 32-bit Register File
+32 × 32-bit Register File 
 Immediate Generator
 Main Control Unit
 ALU Control
